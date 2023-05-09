@@ -1,0 +1,23 @@
+.btnGroup {
+    background-color: #247ba0;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.btnGroup:hover {
+    background-color: #f95c39;
+    transform: to right;
+    transition-duration: 1s;
+    transition-delay: 0.2s;
+}
+
+.linkBtn {
+    color: #247ba0;
+}
+
+.linkBtn:hover {
+    color: #f95c39;
+    ;
+}
