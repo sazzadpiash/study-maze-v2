@@ -14,7 +14,7 @@ const HelpVideoSection = () => {
                 </center> */}
 
                 <center>
-                    <iframe className="rounded-md" width="560" height="315" src="https://www.youtube.com/embed/cwOxya1diQA?autoplay=1&mute=1" title="YouTube video player" frameBorder={0} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/cwOxya1diQA" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
                 </center>
             </div>
             <div className="my-4 md:my-8 text-center">
